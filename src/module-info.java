@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ph
+ *
+ */
+module wasabiapp {
+}
